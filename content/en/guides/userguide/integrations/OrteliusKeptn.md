@@ -64,6 +64,7 @@ To analyse how to achive github-keptn communication whenevern there is a commit.
 
 - Using Keptn as a task in the CI pipeline(which will be triggered automatically for every commit)
 - Using Github action to send the meta data information to keptn-ortelius service. keptn-ortelius will internally use those service to make a call to either ortelius or keptn using APIs.
+- Using Active and Passive Webhooks integration on Keptn with Github APIs. Ref:- https://artifacthub.io/packages/keptn/keptn-integrations/githubaction
 
 ## Event Contract
 
